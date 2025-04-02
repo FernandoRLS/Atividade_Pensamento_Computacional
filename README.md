@@ -33,7 +33,7 @@ Ademais, enfatiza a importância da organização do tempo e do equilíbrio entr
 
 ## Introdução
 
-O termo **Brain Rot** é popularmente utilizado para descrever a degradação cognitiva decorrente do consumo excessivo de conteúdos de baixa qualidade. Na era digital, essa problemática tem se intensificado, afetando a saúde mental e a produtividade. Em *A Sociedade do Cansaço*, Byung-Chul Han (2010) argumenta que o excesso de estímulos e a constante demanda por multitarefa contribuem para a perda da capacidade de concentração. Assim, o **pensamento computacional** – uma abordagem estruturada e lógica para a resolução de problemas – oferece ferramentas para analisar e mitigar esses efeitos, alinhando-se com os princípios discutidos por Oliveira em *Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas*.
+O termo **Brain Rot** é popularmente utilizado para descrever a degradação cognitiva decorrente do consumo excessivo de conteúdos de baixa qualidade. Na era digital, essa problemática tem se intensificado, afetando a saúde mental e a produtividade. Em *A Sociedade do Cansaço*, Byung-Chul Han (2015) argumenta que o excesso de estímulos e a constante demanda por multitarefa contribuem para a perda da capacidade de concentração. Assim, o **pensamento computacional** – uma abordagem estruturada e lógica para a resolução de problemas – oferece ferramentas para analisar e mitigar esses efeitos, alinhando-se com os princípios discutidos por Oliveira em *Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas*.
 
 ---
 
@@ -41,7 +41,7 @@ O termo **Brain Rot** é popularmente utilizado para descrever a degradação co
 
 A decomposição consiste em dividir um problema complexo em partes menores e mais gerenciáveis. No contexto do Brain Rot, os principais aspectos analisados são:
 
-- **Tempo excessivo em redes sociais e conteúdos superficiais:** O consumo desmedido de informações pode levar à sobrecarga cognitiva, conforme apontado por Han (2010).
+- **Tempo excessivo em redes sociais e conteúdos superficiais:** O consumo desmedido de informações pode levar à sobrecarga cognitiva, conforme apontado por Han (2015).
 - **Redução da capacidade de concentração e retenção de informações:** Dividir o problema em fatores específicos facilita a identificação de soluções.
 - **Impacto na saúde mental e produtividade:** Conforme discutido em *Pensamento Computacional no Ensino de Ciências*, a decomposição é essencial para compreender e atacar os desafios complexos.
 
