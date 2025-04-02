@@ -105,7 +105,7 @@ O pensamento computacional oferece uma estrutura lógica para analisar e combate
 ## Referências Teóricas
 
 - **A Sociedade do Cansaço** – Byung-Chul Han  
-  *Han, B. (2010). A Sociedade do Cansaço. Vozes.*  
+  *Han, B. (2015). A Sociedade do Cansaço. Vozes.*  
   "O excesso de estímulos e a pressão para a multitarefa contribuem para a degradação da capacidade de concentração."
 
 - **Algoritmos: Lógica para Programação de Computadores**  
