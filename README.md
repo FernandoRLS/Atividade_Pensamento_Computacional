@@ -3,9 +3,9 @@
 **Matéria:** Pensamento Computacional  
 **Professora:** Kadidja Valeria Reginaldo de Oliveira  
 **Alunos:**  
-- Nome1  
-- Nome2  
-- Nome3  
+- @FernandoRLS - Fernando Soares - CRM: 27727424
+- @rodrigooliveiradourado - Rodrigo Oliveira Dourado - CRM:40714675 
+- Nome3
 
 ---
 
