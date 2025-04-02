@@ -98,7 +98,7 @@ Essa avaliação contínua é essencial para ajustar as estratégias implementad
 
 ## Conclusão
 
-O pensamento computacional oferece uma estrutura lógica para analisar e combater os efeitos do Brain Rot. Ao aplicar os conceitos de decomposição, reconhecimento de padrões, abstração, algoritmos e avaliação, é possível promover um consumo digital mais consciente e produtivo. Conforme discutido por Han (2010) e Oliveira, a integração dessas práticas pode melhorar significativamente a saúde mental e o desempenho no aprendizado, transformando hábitos prejudiciais em rotinas mais organizadas e eficientes.
+O pensamento computacional oferece uma estrutura lógica para analisar e combater os efeitos do Brain Rot. Ao aplicar os conceitos de decomposição, reconhecimento de padrões, abstração, algoritmos e avaliação, é possível promover um consumo digital mais consciente e produtivo. Conforme discutido por Han (2015) e Oliveira, a integração dessas práticas pode melhorar significativamente a saúde mental e o desempenho no aprendizado, transformando hábitos prejudiciais em rotinas mais organizadas e eficientes.
 
 ---
 
