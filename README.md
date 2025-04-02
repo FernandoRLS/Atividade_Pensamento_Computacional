@@ -112,10 +112,7 @@ O pensamento computacional oferece uma estrutura lógica para analisar e combate
   *Referência adaptada para este trabalho.*  
   "A sistematização por meio de algoritmos permite a resolução ordenada de problemas complexos."
 
-- **Lógica de Programação: A Construção de Algoritmos e Estruturas de Dados**  
-  *Referência adaptada para este trabalho.*  
-  "A estruturação dos algoritmos é fundamental para o desenvolvimento de soluções eficazes."
+- **SOUSA, Fabiula; LEITE, Ramon; BRITO, Cecy Maria; VILLELA, Maria; SANTOS, Caroline Queiroz. O desenvolvimento do Pensamento Computacional além do ensino em ciências exatas: uma revisão da literatura. Disponível em: http://milanesa.ime.usp.br/rbie/index.php/sbie/article/view/8757. Acesso em: 02 abr. 2025.
 
 - **Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas** – Luiz Fernando de Oliveira  
-  *Oliveira, L. F. (Ano). Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas.*  
-  "A decomposição e a abstração são pilares essenciais para transformar problemas complexos em tarefas manejáveis."
+  *Oliveira, L. F. (2019). Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas.*  
