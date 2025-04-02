@@ -96,6 +96,12 @@ Essa avaliação contínua é essencial para ajustar as estratégias implementad
 
 ---
 
+## Conclusão
+
+O pensamento computacional oferece uma estrutura lógica para analisar e combater os efeitos do Brain Rot. Ao aplicar os conceitos de decomposição, reconhecimento de padrões, abstração, algoritmos e avaliação, é possível promover um consumo digital mais consciente e produtivo. Conforme discutido por Han (2010) e Oliveira, a integração dessas práticas pode melhorar significativamente a saúde mental e o desempenho no aprendizado, transformando hábitos prejudiciais em rotinas mais organizadas e eficientes.
+
+---
+
 ## Referências Teóricas
 
 - **A Sociedade do Cansaço** – Byung-Chul Han  
@@ -113,9 +119,3 @@ Essa avaliação contínua é essencial para ajustar as estratégias implementad
 - **Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas** – Luiz Fernando de Oliveira  
   *Oliveira, L. F. (Ano). Pensamento Computacional no Ensino de Ciências: Fundamentos e Práticas.*  
   "A decomposição e a abstração são pilares essenciais para transformar problemas complexos em tarefas manejáveis."
-
----
-
-## Conclusão
-
-O pensamento computacional oferece uma estrutura lógica para analisar e combater os efeitos do Brain Rot. Ao aplicar os conceitos de decomposição, reconhecimento de padrões, abstração, algoritmos e avaliação, é possível promover um consumo digital mais consciente e produtivo. Conforme discutido por Han (2010) e Oliveira, a integração dessas práticas pode melhorar significativamente a saúde mental e o desempenho no aprendizado, transformando hábitos prejudiciais em rotinas mais organizadas e eficientes.
