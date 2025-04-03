@@ -5,7 +5,7 @@
 **Autores**  
 - @FernandoRLS - Fernando Soares - CRM: 27727424
 - @rodrigooliveiradourado - Rodrigo Oliveira Dourado - CRM:40714675 
-- Nome3
+- @Wendel-Oliveira - Wendel Matheus Soares Oliveira - CRM:40881024
 
 ---
 
